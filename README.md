@@ -1,6 +1,6 @@
 # Projet Name
-## CV dESIGN
+CV DESIGN
 # About
-## A CV with a design in picture and background color animation with music
+A CV with a design in picture and background color animation with music
 # Languages used
-## HTML, CSS
+HTML, CSS
